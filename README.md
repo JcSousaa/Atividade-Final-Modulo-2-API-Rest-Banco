@@ -108,6 +108,9 @@ Este endpoint lista todas as contas bancárias existentes.Verifica se a senha do
 }
 ```
 
+![image](https://user-images.githubusercontent.com/112031138/222762041-b37c1c22-fef7-472e-ac3a-1b390fbe56ef.png)
+
+
 ## Endpoint 02
 
 ### Criar conta bancária
@@ -156,6 +159,10 @@ Esse endpoint cria uma conta bancária, onde é gerado um número único para id
     "mensagem": "Já existe uma conta com o cpf ou e-mail informado!"
 }
 ```
+![image](https://user-images.githubusercontent.com/112031138/222762476-0b0766c9-9612-4f69-80b6-533b449db207.png)
+![image](https://user-images.githubusercontent.com/112031138/222762887-b2f38c9b-cb7d-4af4-a352-f38d2caaed38.png)
+![image](https://user-images.githubusercontent.com/112031138/222763203-1fd6a8f7-2c7e-4475-999c-a633054eb1d2.png)
+
 
 ## Endpoint 03
 
@@ -211,6 +218,7 @@ Este endpoint atualiza apenas os dados do usuário de uma conta bancária.
     "mensagem": "O CPF informado já existe cadastrado!"
 }
 ```
+![image](https://user-images.githubusercontent.com/112031138/222763608-d6fcf069-d9a3-4b6d-8399-fc41345a056e.png)
 
 ## Endpoint 04
 
@@ -240,6 +248,8 @@ Este endpoint exclui uma conta bancária existente.
     "mensagem": "A conta só pode ser removida se o saldo for zero!"
 }
 ```
+![image](https://user-images.githubusercontent.com/112031138/222764030-ca807364-088e-48e6-9c67-d71e7e258ae6.png)
+
 ## Endpoint 05
 
 ### Depositar
@@ -289,6 +299,8 @@ Este endpoint somar o valor do depósito ao saldo de uma conta válida e registr
     "valor": 10000
 }
 ```
+![image](https://user-images.githubusercontent.com/112031138/222764251-1c4dc850-cda8-4950-823a-405b62ff29c3.png)
+
 ## Endpoint 06
 
 ### Sacar
@@ -340,6 +352,7 @@ Este endpoint realiza o saque de um valor em uma determinada conta bancária e r
     "valor": 10000
 }
 ```
+![image](https://user-images.githubusercontent.com/112031138/222764599-39062557-d363-45b2-8aae-648814e78a2b.png)
 
 ## Endpoint 07
 
@@ -398,6 +411,7 @@ Este endpoint  permite a transferência de recursos (dinheiro) de uma conta banc
     "valor": 10000
 }
 ```
+![image](https://user-images.githubusercontent.com/112031138/222765154-2332cf2e-faf8-426f-8ad9-d3f62d94caee.png)
 
 ## Endpoint 08
 
@@ -435,6 +449,8 @@ Este endpoint  retorna o saldo de uma conta bancária.
     "mensagem": "Conta bancária não encontada!"
 }
 ```
+![image](https://user-images.githubusercontent.com/112031138/222765398-77d926d9-56e8-454b-a497-05e422b2c0e9.png)
+
 
 ## Endpoint 09
 
@@ -512,6 +528,8 @@ Este endpoint  lista as transações realizadas de uma conta específica.
     "mensagem": "Conta bancária não encontada!"
 }
 ```
+![image](https://user-images.githubusercontent.com/112031138/222765647-151780db-75f7-4823-8bd0-61998e5fb40e.png)
+
 
 ###### tags: `back-end` `módulo 2` `nodeJS` `API REST` `desafio`
 
