@@ -1,3 +1,5 @@
+![cubosacademy](https://user-images.githubusercontent.com/112031138/222727714-e4d0f2f0-7d70-4024-b31e-2157b92be972.gif)
+
 # Atividade Final do Módulo 2
 
 Este é o Projeto Final do Módulo 2 do curso de Programação Backend, ministrado pela Cubos Academy.
