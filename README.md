@@ -1,4 +1,4 @@
-![cubosacademy](https://user-images.githubusercontent.com/112031138/222727714-e4d0f2f0-7d70-4024-b31e-2157b92be972.gif)
+![image](https://user-images.githubusercontent.com/112031138/222728001-d781d97e-9200-4f2a-b25b-a6046d6254b9.png)
 
 # Atividade Final do Módulo 2
 
