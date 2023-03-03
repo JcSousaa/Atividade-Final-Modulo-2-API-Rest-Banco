@@ -45,7 +45,9 @@ Os dados foram persistidos em memória, no objeto existente dentro do arquivo `b
     ],
 }
 ```
-
+![image](https://user-images.githubusercontent.com/112031138/222761295-21ddafd5-86c2-415a-ac92-89d2ccce64e1.png)
+![image](https://user-images.githubusercontent.com/112031138/222761481-59500fb8-fdd8-41b3-b46f-35b98189abad.png)
+![image](https://user-images.githubusercontent.com/112031138/222761632-2766db2b-8453-4b10-b973-6b235ac4cf29.png)
 ![image](https://user-images.githubusercontent.com/112031138/222760771-993c0990-8681-4189-a853-80ab631ac239.png)
 
 
