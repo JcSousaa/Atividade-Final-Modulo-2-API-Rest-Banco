@@ -150,6 +150,7 @@ Esse endpoint cria uma conta bancária, onde é gerado um número único para id
 {
     "mensagem": "Já existe uma conta com o cpf ou e-mail informado!"
 }
+```
 
 ## Endpoint 03
 
