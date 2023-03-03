@@ -46,6 +46,9 @@ Os dados foram persistidos em memória, no objeto existente dentro do arquivo `b
 }
 ```
 
+![image](https://user-images.githubusercontent.com/112031138/222760771-993c0990-8681-4189-a853-80ab631ac239.png)
+
+
 ## Endpoint 01
 
 ### Listar contas bancárias
